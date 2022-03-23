@@ -1,0 +1,8 @@
+environment:
+  cover_image: 
+  receive_path: D:\College\GUI\Secure Stego FINAL\Received Data\rec.PNG
+  send_path: ../Sender Data/ 
+kafka:
+  bootstrap_servers: 
+  topic: 
+key: 1234
